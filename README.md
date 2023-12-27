@@ -1,2 +1,2 @@
 # ISDO
-Building website NGO
+Building Initiative social for development Organization
